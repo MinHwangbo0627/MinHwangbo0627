@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello everyone 👋
+
+🌍 I'm an undergraduate majoring in Global Business & Technology
+and Advertise PR branding. 
 
 <!--
 **MinHwangbo0627/MinHwangbo0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
